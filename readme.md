@@ -9,5 +9,8 @@
 pip install -r requirements.txt
 ```
 
-2. Crear Variables de Entorno. Duplicar fichero.
+2. Crear Variables de Entorno. Duplicar fichero .env_template, informar correctamente y renombrar a .env
 
+# Ejecución
+
+Ejecutar el mandato `flask run` en el terminal
